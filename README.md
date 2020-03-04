@@ -1,5 +1,8 @@
 # proyecto_simulacion
-Proyecto realizado en Unity para la materia de Simulación por computadora
+Juego VR realizado con Unity para la materia de Simulación por computadora.
+
+Permite al jugador recoger bolitas en un mapa abierto en Realidad aumentada. 
+Para jugar se requiere un Google carboard.
 
 
 ## Contributing
